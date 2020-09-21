@@ -1,0 +1,14 @@
+1.) List of source files submitted
+  a. main.cpp
+  b. assign1.cpp
+  c. assign1.h
+  d. Makefile
+  e. Jasper_Wu.out
+
+2.) Description of any known compile/runtime errors, or bugs
+  a. No known compile/runtime errors, or bugs
+
+3.) References used to complete the assignment
+  a. https://www.mathsisfun.com/data/standard-deviation.html
+  b. https://www.w3schools.com/cpp/default.asp
+  c. http://www.cplusplus.com/reference/cstdio/rewind/
